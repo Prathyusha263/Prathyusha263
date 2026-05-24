@@ -1,6 +1,6 @@
 # Hi, I'm Prathyusha Pentam
 
-MS in Data Science — Graduating May 2026, USA
+MS in Data Science — Graduated May 2026, USA
 Teaching Assistant | Graduate Researcher
 Currently learning: Cloud (AWS), Git, and Data Engineering fundamentals
 GitHub: [@Prathyusha263](https://github.com/Prathyusha263)
